@@ -1,2 +1,3 @@
 # hello-world
-The first repository. Just starting to get a hang of github, and its features.
+Hi there everyone.
+My name is Mridul Pathak, and I have just started using GitHub. I seriously don't know anything abut this website, but I'm starting to get a hang of the several features provided by GitHub. Hope to learn something new....
